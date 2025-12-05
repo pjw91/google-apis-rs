@@ -25,4 +25,4 @@ make:
 cargo:
   keywords: [cli]
   is_executable: true
-  doc_base_url: http://byron.github.io/google-apis-rs
+  doc_base_url: https://byron.github.io/google-apis-rs

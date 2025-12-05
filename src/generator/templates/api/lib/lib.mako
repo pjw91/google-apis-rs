@@ -176,7 +176,7 @@ ${method_type} supported by ...
 
 % if rust_doc:
 
-Not what you are looking for ? Find all other Google APIs in their Rust [documentation index](http://byron.github.io/google-apis-rs).
+Not what you are looking for ? Find all other Google APIs in their Rust [documentation index](https://byron.github.io/google-apis-rs).
 % endif
 
 # Structure of this Library
